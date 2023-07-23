@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe.config
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.exe
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\bin\Debug\CotacaoDolar.pdb
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.FrmCotacaoDolar.resources
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.Properties.Resources.resources
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.GenerateResource.cache
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.csproj.CopyComplete
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.exe
+C:\Users\User\Desktop\tudo desktop programação\CotacaoDolar\CotacaoDolar\obj\Debug\CotacaoDolar.pdb
